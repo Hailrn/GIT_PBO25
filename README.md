@@ -17,4 +17,4 @@ Mencoba melakukan contribution di Github, berikut beberapa step yang harus kalia
 5. Tambahkan file `nimkalian.txt` dan kasih kata kata tipis tipis di Folder `nama_pelaku`
 6. Push ke Repo kalian dan lakukan pull request  
 
-misi penghijauan 1# 2# 3#
+misi penghijauan 1# 2# 3# 4#
